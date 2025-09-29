@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+hr.navbar {
+  height: 4px;
+  background: #282c34;
+}
+
+hr.chapter_divider {
+  height: 4px;
+  background: #61dafb;
+}
+
+.inline {
+  width: 100px;
+  border: 4px solid #282c34;
+  margin: 8px;
+  padding: 5px;
+  display: inline;
+}
